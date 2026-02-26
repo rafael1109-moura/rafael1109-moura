@@ -1,6 +1,6 @@
 
 - 👋 Hi, I'm @rafael1109-moura
-- 👀 I'm interested in AI, Python, C and C++
+- 👀 I'm interested in AI, Python, HTML, CSS e JAVASCRIPT
 - 🌱 I'm learning LoT, AI and programming techniques
 - 💞️ I want to collaborate on challenging projects
 - 📫 How to contact me rafamouratwd@gmail.com
