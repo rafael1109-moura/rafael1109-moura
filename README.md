@@ -1,12 +1,5 @@
-
-- 👋 Hi, I'm @rafael1109-moura
-- 👀 I'm interested in AI, Python, HTML, CSS e JAVASCRIPT
-- 🌱 I'm learning LoT, AI and programming techniques
-- 💞️ I want to collaborate on challenging projects
-- 📫 How to contact me rafamouratwd@gmail.com
-- ⚡ Fun fact: I'm a mechanic technician
-
-<!---
-rafael1109-moura/rafael1109-moura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael1109-moura)](https://github.com/rafael1109-moura/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael1109-moura&hide=stars,commits,prs,issues,contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael1109-moura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaek1109-moura&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael1109-moura&show_icons=true&theme=radical)
