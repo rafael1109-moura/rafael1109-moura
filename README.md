@@ -1,19 +1,19 @@
 <h1 align="center">👋 Olá, eu sou Rafael de Moura</h1>
 
 <p align="center">
-💻 Estudante de TI 
+ Estudante de TI 
 </p>
 
 ---
 
 ## Sobre mim
-- 🎓 Estudando Tecnologia da Informação (UFRN)
-- 💡 Criando projetos com Python, Java e JavaScript
+- Estudando Tecnologia da Informação (UFRN)
+- Criando projetos com Python, Java e JavaScript
 
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,tensorflow" />
@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafael1109-moura&show_icons=true&theme=radical"/>
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔥 Sequência de contribuições
+## Sequência de contribuições
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=rafael1109-moura&theme=radical" />
@@ -48,7 +48,7 @@
 
 ---
 
-## 🐍 Contribuições animadas
+## Contribuições animadas
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
